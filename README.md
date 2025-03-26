@@ -20,9 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
