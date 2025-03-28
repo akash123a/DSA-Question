@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Hash Table
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
