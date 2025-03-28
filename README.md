@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## String
+|  |
+| ------- |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/akash123a/DSA-Question/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
