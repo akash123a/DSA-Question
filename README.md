@@ -5,18 +5,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## String
 |  |
