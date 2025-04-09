@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/akash123a/DSA-Question/tree/master/2262-solving-questions-with-brainpower) |
+| [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/akash123a/DSA-Question/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Matrix
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
+| [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
