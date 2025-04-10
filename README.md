@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Array
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akash123a/DSA-Question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
