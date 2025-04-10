@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -85,9 +86,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
