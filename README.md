@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Array
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
