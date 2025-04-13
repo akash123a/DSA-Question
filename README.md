@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/akash123a/DSA-Question/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/akash123a/DSA-Question/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/akash123a/DSA-Question/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
