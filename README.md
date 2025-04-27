@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 | [2915-count-of-interesting-subarrays](https://github.com/akash123a/DSA-Question/tree/master/2915-count-of-interesting-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/akash123a/DSA-Question/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akash123a/DSA-Question/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
 | ------- |
