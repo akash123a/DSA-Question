@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/akash123a/DSA-Question/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akash123a/DSA-Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0386-lexicographical-numbers](https://github.com/akash123a/DSA-Question/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/akash123a/DSA-Question/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/akash123a/DSA-Question/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
