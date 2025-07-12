@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akash123a/DSA-Question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/akash123a/DSA-Question/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/akash123a/DSA-Question/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/akash123a/DSA-Question/tree/master/0594-longest-harmonious-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akash123a/DSA-Question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
