@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akash123a/DSA-Question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/akash123a/DSA-Question/tree/master/2262-solving-questions-with-brainpower) |
