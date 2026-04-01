@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/akash123a/DSA-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akash123a/DSA-Question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akash123a/DSA-Question/tree/master/2699-count-the-number-of-fair-pairs) |
