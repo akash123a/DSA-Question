@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash123a/DSA-Question/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/akash123a/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akash123a/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/akash123a/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akash123a/DSA-Question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akash123a/DSA-Question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akash123a/DSA-Question/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
