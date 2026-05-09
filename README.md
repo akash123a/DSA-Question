@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/akash123a/DSA-Question/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/akash123a/DSA-Question/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/akash123a/DSA-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/akash123a/DSA-Question/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akash123a/DSA-Question/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/akash123a/DSA-Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akash123a/DSA-Question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/akash123a/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/akash123a/DSA-Question/tree/master/0242-valid-anagram) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akash123a/DSA-Question/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Linked List
 |  |
