@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akash123a/DSA-Question/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/akash123a/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/akash123a/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akash123a/DSA-Question/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash123a/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akash123a/DSA-Question/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/akash123a/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akash123a/DSA-Question/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/akash123a/DSA-Question/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/akash123a/DSA-Question/tree/master/2737-row-with-maximum-ones) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akash123a/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash123a/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akash123a/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/akash123a/DSA-Question/tree/master/2699-count-the-number-of-fair-pairs) |
